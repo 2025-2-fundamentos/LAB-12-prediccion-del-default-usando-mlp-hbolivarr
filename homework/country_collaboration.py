@@ -1,5 +1,3 @@
-# country_collaboration.py
-
 # flake8: noqa: E501, N806
 # pylint: disable=C0103
 """Taller Presencial Evaluable"""
@@ -165,10 +163,3 @@ def make_plot(n_countries):
 
 if __name__ == "__main__":
     make_plot(n_countries=20)
-    
-    
-    
-
-
-
-
